@@ -6,6 +6,12 @@
 >
 > **APCC HT est une application de pilotage du home trainer. Elle n’enregistre pas vos séances : lancez votre propre compteur (ou un autre appareil) pour enregistrer l’entraînement.**
 
+由 Vincuri 设计开发
+
+Designed & developed by Vincuri
+
+Conçu et développé par Vincuri
+
 APCC HT 是 APCC（Asian Paris Cycling Club）的骑行台控制程序，用于通过蓝牙 FTMS 连接智能骑行台（例如 Zwift Hub）。本仓库只发布安装包，**不包含源代码**。
 
 APCC HT is a smart-trainer control app by APCC (Asian Paris Cycling Club). It connects to a trainer over Bluetooth FTMS (for example a Zwift Hub). This repository publishes installers only. **Source code is not in this repo.**
@@ -14,7 +20,7 @@ APCC HT est l’application de pilotage de home trainer d’APCC (Asian Paris Cy
 
 ## 下载 / Downloads / Téléchargements
 
-当前版本 1.6.1。以下链接始终指向最新正式版：
+当前版本 1.6.2（最新）。以下链接始终指向最新正式版：
 
 | 平台 | 文件 | 链接 |
 | --- | --- | --- |
@@ -24,7 +30,7 @@ APCC HT est l’application de pilotage de home trainer d’APCC (Asian Paris Cy
 
 校验和：https://github.com/Vincuri/APCC-HT-Releases/releases/latest/download/SHA256SUMS.txt
 
-Release 1.6.1. These links always point at the latest release:
+Release 1.6.2 (latest). These links always point at the latest release:
 
 | Platform | File | Link |
 | --- | --- | --- |
@@ -34,7 +40,7 @@ Release 1.6.1. These links always point at the latest release:
 
 Checksums: https://github.com/Vincuri/APCC-HT-Releases/releases/latest/download/SHA256SUMS.txt
 
-Version 1.6.1. Ces liens pointent toujours vers la dernière version :
+Version 1.6.2 (dernière). Ces liens pointent toujours vers la dernière version :
 
 | Plateforme | Fichier | Lien |
 | --- | --- | --- |
@@ -105,3 +111,11 @@ xattr -dr com.apple.quarantine "/Applications/APCC HT.app"
 This repository does not contain source code. It only holds release notes and installer downloads.
 
 Ce dépôt ne contient pas le code source. Il ne contient que les notes de version et les installeurs.
+
+由 Vincuri 设计开发
+
+Designed & developed by Vincuri
+
+Conçu et développé par Vincuri
+
+APCC on Strava: https://www.strava.com/clubs/2347321
