@@ -20,7 +20,7 @@ APCC HT est l’application de pilotage de home trainer d’APCC (Asian Paris Cy
 
 ## 下载 / Downloads / Téléchargements
 
-当前版本 1.6.2（最新）。以下链接始终指向最新正式版：
+当前版本 1.6.3（最新）。以下链接始终指向最新正式版：
 
 | 平台 | 文件 | 链接 |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ APCC HT est l’application de pilotage de home trainer d’APCC (Asian Paris Cy
 
 校验和：https://github.com/Vincuri/APCC-HT-Releases/releases/latest/download/SHA256SUMS.txt
 
-Release 1.6.2 (latest). These links always point at the latest release:
+Release 1.6.3 (latest). These links always point at the latest release:
 
 | Platform | File | Link |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ Release 1.6.2 (latest). These links always point at the latest release:
 
 Checksums: https://github.com/Vincuri/APCC-HT-Releases/releases/latest/download/SHA256SUMS.txt
 
-Version 1.6.2 (dernière). Ces liens pointent toujours vers la dernière version :
+Version 1.6.3 (dernière). Ces liens pointent toujours vers la dernière version :
 
 | Plateforme | Fichier | Lien |
 | --- | --- | --- |
@@ -52,19 +52,19 @@ Sommes de contrôle : https://github.com/Vincuri/APCC-HT-Releases/releases/lates
 
 ## 程序介绍
 
-APCC HT 通过蓝牙 FTMS 连接智能骑行台（例如 Zwift Hub），用 ERG 模式按目标功率带动骑行。内置约 3000 节结构化课程，可以选配蓝牙功率计，每节训练结束后给出总结。提供 Android、Mac（Apple 芯片）和 Windows 安装包，另有浏览器版本。
+APCC HT 通过蓝牙 FTMS 连接智能骑行台（例如 Zwift Hub），用 ERG 模式按目标功率带动骑行。内置约 3000 节结构化课程，可以选配蓝牙功率计，每节训练结束后给出总结。App 里还可以用「自定义」自己编排课程（热身、固定功率、渐变、间歇重复、自由骑、放松），并导出为 .zwo 文件；浏览器版本没有自定义功能。提供 Android、Mac（Apple 芯片）和 Windows 安装包，另有浏览器版本。
 
 它只负责控制骑行台。训练记录请用自己的码表或其他记录设备。
 
 ## What it does
 
-APCC HT connects to a smart trainer over Bluetooth FTMS (for example a Zwift Hub) and drives it in ERG mode at a target wattage. It includes a built-in library of about 3000 structured workouts, an optional Bluetooth power meter, and a summary after each workout. Installers are published for Android, Mac (Apple silicon), and Windows. A browser version is also available.
+APCC HT connects to a smart trainer over Bluetooth FTMS (for example a Zwift Hub) and drives it in ERG mode at a target wattage. It includes a built-in library of about 3000 structured workouts, an optional Bluetooth power meter, and a summary after each workout. In the apps you can also build your own workouts with the custom builder (warm-up, steady, ramp, intervals, free ride, cool-down) and export them as .zwo files; the browser version has no builder. Installers are published for Android, Mac (Apple silicon), and Windows. A browser version is also available.
 
 It controls the trainer. It does not record the ride.
 
 ## Présentation
 
-APCC HT se connecte à un home trainer intelligent en Bluetooth FTMS (par exemple un Zwift Hub) et le pilote en mode ERG à une puissance cible. La bibliothèque intégrée compte environ 3000 séances structurées. Un capteur de puissance Bluetooth est facultatif, et un résumé s’affiche à la fin de chaque séance. Des installeurs sont publiés pour Android, Mac (Apple silicon) et Windows. Une version navigateur existe aussi.
+APCC HT se connecte à un home trainer intelligent en Bluetooth FTMS (par exemple un Zwift Hub) et le pilote en mode ERG à une puissance cible. La bibliothèque intégrée compte environ 3000 séances structurées. Un capteur de puissance Bluetooth est facultatif, et un résumé s’affiche à la fin de chaque séance. Dans les applications, la « Séance perso » permet de composer vos propres séances (échauffement, puissance fixe, rampe, intervalles, sortie libre, retour au calme) et de les exporter en .zwo ; la version navigateur ne la propose pas. Des installeurs sont publiés pour Android, Mac (Apple silicon) et Windows. Une version navigateur existe aussi.
 
 L’application pilote le home trainer. Elle n’enregistre pas la séance.
 
